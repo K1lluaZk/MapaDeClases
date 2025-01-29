@@ -12,3 +12,18 @@ C:\Users\mario\OneDrive\Documentos\Visual Studio 2022\mapa-de-clases\mapa-de-cla
 C:\Users\mario\OneDrive\Documentos\Visual Studio 2022\mapa-de-clases\mapa-de-clases\obj\Debug\net8.0\mapa-de-clases.pdb
 C:\Users\mario\OneDrive\Documentos\Visual Studio 2022\mapa-de-clases\mapa-de-clases\obj\Debug\net8.0\mapa-de-clases.genruntimeconfig.cache
 C:\Users\mario\OneDrive\Documentos\Visual Studio 2022\mapa-de-clases\mapa-de-clases\obj\Debug\net8.0\ref\mapa-de-clases.dll
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\bin\Debug\net8.0\mapa-de-clases.exe
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\bin\Debug\net8.0\mapa-de-clases.deps.json
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\bin\Debug\net8.0\mapa-de-clases.runtimeconfig.json
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\bin\Debug\net8.0\mapa-de-clases.dll
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\bin\Debug\net8.0\mapa-de-clases.pdb
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\obj\Debug\net8.0\mapa-de-clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\obj\Debug\net8.0\mapa-de-clases.AssemblyInfoInputs.cache
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\obj\Debug\net8.0\mapa-de-clases.AssemblyInfo.cs
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\obj\Debug\net8.0\mapa-de-clases.csproj.CoreCompileInputs.cache
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\obj\Debug\net8.0\mapa-de-clases.sourcelink.json
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\obj\Debug\net8.0\mapa-de-clases.dll
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\obj\Debug\net8.0\refint\mapa-de-clases.dll
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\obj\Debug\net8.0\mapa-de-clases.pdb
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\obj\Debug\net8.0\mapa-de-clases.genruntimeconfig.cache
+C:\Users\mario\OneDrive\Documentos\GitHub\MapaDeClases\mapa-de-clases\mapa-de-clases\obj\Debug\net8.0\ref\mapa-de-clases.dll

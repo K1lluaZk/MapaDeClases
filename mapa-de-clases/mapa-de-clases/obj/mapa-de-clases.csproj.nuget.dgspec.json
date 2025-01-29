@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mario\\OneDrive\\Documentos\\Visual Studio 2022\\mapa-de-clases\\mapa-de-clases\\mapa-de-clases.csproj": {}
+    "C:\\Users\\mario\\OneDrive\\Documentos\\GitHub\\MapaDeClases\\mapa-de-clases\\mapa-de-clases\\mapa-de-clases.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mario\\OneDrive\\Documentos\\Visual Studio 2022\\mapa-de-clases\\mapa-de-clases\\mapa-de-clases.csproj": {
+    "C:\\Users\\mario\\OneDrive\\Documentos\\GitHub\\MapaDeClases\\mapa-de-clases\\mapa-de-clases\\mapa-de-clases.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mario\\OneDrive\\Documentos\\Visual Studio 2022\\mapa-de-clases\\mapa-de-clases\\mapa-de-clases.csproj",
+        "projectUniqueName": "C:\\Users\\mario\\OneDrive\\Documentos\\GitHub\\MapaDeClases\\mapa-de-clases\\mapa-de-clases\\mapa-de-clases.csproj",
         "projectName": "mapa-de-clases",
-        "projectPath": "C:\\Users\\mario\\OneDrive\\Documentos\\Visual Studio 2022\\mapa-de-clases\\mapa-de-clases\\mapa-de-clases.csproj",
+        "projectPath": "C:\\Users\\mario\\OneDrive\\Documentos\\GitHub\\MapaDeClases\\mapa-de-clases\\mapa-de-clases\\mapa-de-clases.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mario\\OneDrive\\Documentos\\Visual Studio 2022\\mapa-de-clases\\mapa-de-clases\\obj\\",
+        "outputPath": "C:\\Users\\mario\\OneDrive\\Documentos\\GitHub\\MapaDeClases\\mapa-de-clases\\mapa-de-clases\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
